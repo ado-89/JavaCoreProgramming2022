@@ -1,6 +1,6 @@
-package six.oop;
+package seven.oop;
 
-public class Person {
+public class DemoObjectOriented {
     public static void main(String[] args) {
 
     }
