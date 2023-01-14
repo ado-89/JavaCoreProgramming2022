@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 2.Rijec unosi korisnik;
  * -Zadatak: -Program provjerava karakater po karakter dali se unesena rijec sadrzi u recenici;
  * --> Ideja je da se recenica i rijec konvertuju u niz karaktera i da se dalje radi sa nizovima...
- */
+
 
 public class ContinueWithLabel {
     public static void main(String[] args) {
@@ -42,3 +42,4 @@ public class ContinueWithLabel {
 
     }
 
+*/
